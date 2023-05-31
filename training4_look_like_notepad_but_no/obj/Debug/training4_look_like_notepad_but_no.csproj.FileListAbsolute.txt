@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Training\training4_look_like_notepad_but_no\bin\Debug\training4_look_like_notepad_but_no.exe.config
+C:\Users\Dell\Desktop\Training\training4_look_like_notepad_but_no\bin\Debug\training4_look_like_notepad_but_no.exe
+C:\Users\Dell\Desktop\Training\training4_look_like_notepad_but_no\bin\Debug\training4_look_like_notepad_but_no.pdb
+C:\Users\Dell\Desktop\Training\training4_look_like_notepad_but_no\obj\Debug\training4_look_like_notepad_but_no.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Training\training4_look_like_notepad_but_no\obj\Debug\training4_look_like_notepad_but_no.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Training\training4_look_like_notepad_but_no\obj\Debug\training4_look_like_notepad_but_no.Form1.resources
+C:\Users\Dell\Desktop\Training\training4_look_like_notepad_but_no\obj\Debug\training4_look_like_notepad_but_no.Properties.Resources.resources
+C:\Users\Dell\Desktop\Training\training4_look_like_notepad_but_no\obj\Debug\training4_look_like_notepad_but_no.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Training\training4_look_like_notepad_but_no\obj\Debug\training4_look_like_notepad_but_no.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Training\training4_look_like_notepad_but_no\obj\Debug\training4_look_like_notepad_but_no.exe
+C:\Users\Dell\Desktop\Training\training4_look_like_notepad_but_no\obj\Debug\training4_look_like_notepad_but_no.pdb
